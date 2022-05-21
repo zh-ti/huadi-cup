@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3363827 */
+  src: url('iconfont.woff2?t=1651647929802') format('woff2'),
+       url('iconfont.woff?t=1651647929802') format('woff'),
+       url('iconfont.ttf?t=1651647929802') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-notice:before {
+  content: "\e70a";
+}
+
+.icon-qingjia:before {
+  content: "\e634";
+}
+
+.icon-fuhao-tongzhi:before {
+  content: "\e729";
+}
+
+.icon-tubiaozhizuomoban-:before {
+  content: "\e60a";
+}
+
+.icon-wangluo:before {
+  content: "\e600";
+}
+
+.icon-school:before {
+  content: "\ea63";
+}
+
+.icon-quanqiu:before {
+  content: "\e663";
+}
+
+.icon-guoneiyou:before {
+  content: "\e8b6";
+}
+
+.icon-jiaoshi:before {
+  content: "\e722";
+}
+
+.icon-banjiguanli:before {
+  content: "\e62d";
+}
+
+.icon-jiaoshi1:before {
+  content: "\e637";
+}
+
+.icon-school1:before {
+  content: "\e601";
+}
+
+.icon-_xuesheng:before {
+  content: "\e659";
+}
+
+.icon-virus:before {
+  content: "\e6b3";
+}
+
+.icon-virus1:before {
+  content: "\e6ec";
+}
+
+.icon-dian:before {
+  content: "\ec1e";
+}
+
+.icon-menu:before {
+  content: "\e628";
+}
+
+.icon-caidan:before {
+  content: "\e790";
+}
+

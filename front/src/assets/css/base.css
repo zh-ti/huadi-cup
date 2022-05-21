@@ -1,0 +1,11 @@
+@import 'normalize.css';
+@import '../icon/iconfont.css';
+
+body {
+  margin: 0;
+}
+
+.iconfont {
+  font-size: 18px;
+  margin-right: 3px;
+}

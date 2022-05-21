@@ -1,0 +1,135 @@
+{
+  "id": "3363827",
+  "name": "智慧校园防疫管理平台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "智能的校园疫情防控管理平台",
+  "glyphs": [
+    {
+      "icon_id": "88613",
+      "name": "notice",
+      "font_class": "notice",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "4662770",
+      "name": "请假",
+      "font_class": "qingjia",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "4933323",
+      "name": "符号-通知",
+      "font_class": "fuhao-tongzhi",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "12934662",
+      "name": "write",
+      "font_class": "tubiaozhizuomoban-",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1114",
+      "name": "网络",
+      "font_class": "wangluo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "703606",
+      "name": "school",
+      "font_class": "school",
+      "unicode": "ea63",
+      "unicode_decimal": 60003
+    },
+    {
+      "icon_id": "1383505",
+      "name": "全球",
+      "font_class": "quanqiu",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "2076359",
+      "name": " 国内游",
+      "font_class": "guoneiyou",
+      "unicode": "e8b6",
+      "unicode_decimal": 59574
+    },
+    {
+      "icon_id": "7712204",
+      "name": "教师",
+      "font_class": "jiaoshi",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "7964491",
+      "name": "班级管理",
+      "font_class": "banjiguanli",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "8156489",
+      "name": "教师",
+      "font_class": "jiaoshi1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "11399250",
+      "name": "school",
+      "font_class": "school1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12823363",
+      "name": "24_学生",
+      "font_class": "_xuesheng",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "19899650",
+      "name": "virus",
+      "font_class": "virus",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "22273652",
+      "name": "virus",
+      "font_class": "virus1",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "4933869",
+      "name": "点",
+      "font_class": "dian",
+      "unicode": "ec1e",
+      "unicode_decimal": 60446
+    },
+    {
+      "icon_id": "278288",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "592049",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    }
+  ]
+}
